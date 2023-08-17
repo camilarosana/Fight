@@ -1,0 +1,1 @@
+Projeto para praticar o uso de classes no javascript.
