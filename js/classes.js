@@ -87,7 +87,7 @@ class Stage {
 
     doAttack (attacking, attacked) {
         if (attacking.life <= 0 || attacked.life <= 0) {
-            this.log.addMessage('Atacante morto');
+            this.log.addMessage('Inimigo derrotado!');
             return;
         }
 
